@@ -1,0 +1,19 @@
+{
+  "name": "cloudcompasswebsite",
+  "version": "1.0.0",
+  "description": "A website for Cloud Compass App",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugsdev2/cloudcompasswebsite.git"
+  },
+  "author": "bugsdev2",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bugsdev2/cloudcompasswebsite/issues"
+  },
+  "homepage": "https://github.com/bugsdev2/cloudcompasswebsite#readme"
+}
